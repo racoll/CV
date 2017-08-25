@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**SafeShare Global** (November 2015 to May 2017)    
+*Head of Partnerships*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
