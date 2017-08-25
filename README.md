@@ -45,5 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **SafeShare Global** (November 2015 to May 2017)    
 *Head of Partnerships*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Waverton Investment Management** (June 2015 to November 2015)   
+*Researcher*  
+**Howe Robinson Partners** (July 2013 to September 2014)    
+*Shipbroker*
