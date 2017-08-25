@@ -34,11 +34,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London (2010 to 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History and Philosophy of Science, BSc
+- First Class (Hons.)
 
 #### Any other qualifications
 
