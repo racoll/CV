@@ -1,6 +1,8 @@
 ## Robin Collins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the cyber security space.
+
+I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology in finance and insurance, particularly Blockchain, whilst in a business development role at an insur-tech start up. This led me to Makers Academy to gain genuine programming skills myself. 
 
 ## Skills
 
