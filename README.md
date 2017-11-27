@@ -2,30 +2,28 @@
 
 I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the health-tech and fin-tech spaces.
 
-I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology in finance and insurance, particularly Blockchain, whilst in a business development role at an insur-tech start up. This led me to Makers Academy to gain genuine programming skills myself.
+I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology, particularly Blockhain, in finance and insurance whilst in a business development role at an insur-tech start up. This ultimately led me to Makers Academy to gain genuine programming skills myself.
 
 ## Skills
 
 #### Data Analysis
 
-Analysis and summary work in emerging market equity funds.
-Using data draw-down programmes followed by detailed analysis of comparable performance.
+- Analysis and summary work in emerging market equity funds in the fund management industry.
+- Using data draw-down programmes followed by detailed analysis of comparable performance of funds.
 
 
 #### Technological Development
 
- Blockchain time stamping service. Mutual distributed ledger.
+- Gained insight into Blockchain and Mutual Distributed Ledger technology.
+- Assisted with fundraising and technological development at SafeShare.
+- Helped build a Tamagotchi remake iOS application using Swift and Xcode for Makers Academy final project.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Client Relationships
 
-Building and developing revenue-generating and long term client relationships in the shipping industry, specifically in container chartering.
-
-Communicating and dealing with, and on the behalf of, multiple clients globally.
+- Building and developing revenue-generating and long term client relationships in the shipping industry, specifically in container chartering.
+- Communicating and dealing with, and on the behalf of, multiple shipping clients globally.
+- Worked with senior management of global companies in fund management research.
 
 ## Education
 
