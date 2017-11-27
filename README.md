@@ -1,6 +1,6 @@
 ## Robin Collins
 
-I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the health-tech space.
+I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the health-tech and fin-tech spaces.
 
 I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology in finance and insurance, particularly Blockchain, whilst in a business development role at an insur-tech start up. This led me to Makers Academy to gain genuine programming skills myself.
 
@@ -11,17 +11,10 @@ I have built up a broad range of experience from data processing and company ana
 Analysis and summary emerging market equity funds.
 Using data draw-down programmes followed by detailed analysis of comparable performance.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
 
 #### Technological Development
 
  Blockchain, time stamping service. Mutual distributed ledger.
-
- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -40,7 +33,7 @@ Communicating and dealing with and on the behalf of multiple clients globally.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Swfit & Xcode
 - RSpec, Jasmine
 
 #### University College London (2010 to 2013)
