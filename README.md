@@ -2,14 +2,14 @@
 
 I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the health-tech and fin-tech spaces.
 
-I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology, particularly Blockhain, in finance and insurance whilst in a business development role at an insur-tech start up. This ultimately led me to Makers Academy to gain genuine programming skills myself.
+I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology, particularly Blockchain, in finance and insurance whilst in a business development role at an insur-tech start up. This ultimately led me to Makers Academy to gain genuine programming skills myself.
 
 ## Skills
 
 #### Data Analysis
 
 - Analysis and summary work in emerging market equity funds in the fund management industry.
-- Using data draw-down programmes followed by detailed analysis of comparable performance of funds.
+- Using data draw-down programmes followed by undertaking detailed analysis of comparable performance of funds.
 
 
 #### Technological Development
