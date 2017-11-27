@@ -8,13 +8,13 @@ I have built up a broad range of experience from data processing and company ana
 
 #### Data Analysis
 
-Analysis and summary emerging market equity funds.
+Analysis and summary work in emerging market equity funds.
 Using data draw-down programmes followed by detailed analysis of comparable performance.
 
 
 #### Technological Development
 
- Blockchain, time stamping service. Mutual distributed ledger.
+ Blockchain time stamping service. Mutual distributed ledger.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -25,15 +25,15 @@ Using data draw-down programmes followed by detailed analysis of comparable perf
 
 Building and developing revenue-generating and long term client relationships in the shipping industry, specifically in container chartering.
 
-Communicating and dealing with and on the behalf of multiple clients globally.
+Communicating and dealing with, and on the behalf of, multiple clients globally.
 
 ## Education
 
 #### Makers Academy (August 2017 to November 2017)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript, Swfit & Xcode
+- Ruby, Rails, JavaScript, Swfit
 - RSpec, Jasmine
 
 #### University College London (2010 to 2013)
