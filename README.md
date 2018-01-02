@@ -1,22 +1,22 @@
 ## Robin Collins
 
-I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the Cyber-Security, Fin-Tech and Health-Tech spaces.
+I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in the Cyber Security, Fin-Tech and Health-Tech spaces.
 
-I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology, particularly Blockchain, in finance and insurance whilst in a business development role at an insur-tech start up. This ultimately led me to Makers Academy to gain genuine programming skills myself.
+I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. More recently, I gained detailed insight into the use of technology, particularly Blockchain, in finance and insurance whilst in a business development role at an insur-tech start up. This ultimately led me to Makers Academy to gain genuine programming skills myself.
 
 ## Skills
 
 #### Data Analysis
 
-- Analysis and summary work in emerging market equity funds in the fund management industry.
-- Using data draw-down programmes followed by undertaking detailed analysis of comparable performance of funds.
+- Analysis and summary work in global and emerging market equity funds in the fund management industry.
+- Using data draw-down programmes followed by detailed analysis of comparable performance of funds.
 
 
 #### Technological Development
 
 - Gained insight into Blockchain and Mutual Distributed Ledger technology.
-- Assisted with fundraising and technological development at SafeShare.
-- Helped build a Tamagotchi remake iOS application using Swift and Xcode for Makers Academy final project.
+- Assisted with fundraising and technological development at SafeShare insur-tech start-up.
+- Built a Tamagotchi remake iOS application using Swift and Xcode for Makers Academy final team project.
 
 
 #### Client Relationships
