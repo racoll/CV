@@ -8,11 +8,11 @@ I have built up a broad range of experience from data processing and company ana
 
 | Project       | Technology    | Link  |
 | ------------- |:-------------:| -----:|
-| Car      | Ruby, RSpec | [Link](https://github.com/racoll/car) |
-| Bank      | Ruby, RSpec     |  [Link]](https://github.com/racoll/bank)  |
-| Bank JS     | JavaScript, Jasmine     |  [Link](https://github.com/racoll/bankjs)  |
-| Battleships     | Ruby, RSpec     |  [Link](https://github.com/racoll/battlships2)  |
-| Tamagotchi     | Swift 4, XCode 9, SpriteKit     |  [Link](https://github.com/racoll/Team-Agotchi)  |
+| Car programme       | Ruby, RSpec | [Car](https://github.com/racoll/car) |
+| Bank programme     | Ruby, RSpec     |  [Bank - Ruby](https://github.com/racoll/bank)  |
+| Bank programme in JS     | JavaScript, Jasmine     |  [Bank - JS](https://github.com/racoll/bankjs)  |
+| Battleships game     | Ruby, RSpec     |  [Battleships](https://github.com/racoll/battlships2)  |
+| Tamagotchi remake     | Swift 4, XCode 9, SpriteKit     |  [Tamagotchi](https://github.com/racoll/Team-Agotchi)  |
 
 ## Skills
 
