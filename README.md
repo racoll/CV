@@ -4,6 +4,14 @@ I am keen to obtain a junior developer role in a progressive and cutting-edge co
 
 I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. More recently, I gained detailed insight into the use of technology, particularly Blockchain, in finance and insurance whilst in a business development role at an insur-tech start up. This ultimately led me to Makers Academy to gain genuine programming skills myself.
 
+## Projects
+
+[Car - Ruby, RSpec](https://github.com/racoll/car)
+[Bank - Ruby, RSpec](https://github.com/racoll/bank)
+[Bank - JavaScript, Jasmine](https://github.com/racoll/bankjs)
+[Battleships - Ruby, RSpec](https://github.com/racoll/battlships2)
+[Tamagotchi - Swift 4, XCode 9, SpriteKit](https://github.com/racoll/Team-Agotchi)
+
 ## Skills
 
 #### Data Analysis
